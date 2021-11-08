@@ -19,3 +19,5 @@ while True:
     print(f"Total Cost: {round(manager.calcTotalCost(), 2)}")
     print(f"Total Profit: {round(manager.calcTotalProfit(), 2)}")
     print("\n")
+
+##test
