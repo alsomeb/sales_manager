@@ -1,4 +1,4 @@
-from sales import Sales, SalesManager
+from sales import SalesManager
 
 
 manager = SalesManager()
